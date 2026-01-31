@@ -1,0 +1,8 @@
+name: ${project.name}
+version: ${project.version}
+main: ${groupId}.E3VoidTeleporter
+api-version: '1.21'
+authors: [euj3ne]
+description: ${project.description}
+website: ${project.url}
+depend: []
