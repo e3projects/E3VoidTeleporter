@@ -1,8 +1,9 @@
-height: 50
-toTeleport:
-  x: 0
-  y: 0
-  z: 0
-  pitch: 0
-  yaw: 0
-  world: 'world'
+settings:
+  triggerHeight: 50
+  teleportLocation:
+    x: 0
+    y: 0
+    z: 0
+    pitch: 0
+    yaw: 0
+    world: 'world'
